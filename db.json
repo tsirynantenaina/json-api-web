@@ -1,22 +1,25 @@
 {
-    "feedback": [
+    "produit": [
         {
             "id": 1,
-            "rating": 10,
-            "user_name": "Tony Stark",
-            "text": "You are the ironman of this world"
+            "design": "p1",
+            "qte": 10,
+            "pu": 100 ;
+	    "frns" : "test1"
         },
         {
             "id": 2,
-            "rating": 9,
-            "user_name": "Bruce Wayne",
-            "text": "You are the batman of this world"
+            "design": "p2",
+            "qte": 10,
+            "pu": 100 ;
+	    "frns" : "test2"
         },
         {
             "id": 3,
-            "rating": 8,
-            "user_name": "Peter Parker",
-            "text": "You are the spiderman of this world"
-        }
+            "design": "p3",
+            "qte": 10,
+            "pu": 100 ;
+	    "frns" : "test3"
+        },
     ]
 }
